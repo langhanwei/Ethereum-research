@@ -12,6 +12,7 @@
 ## CONTENTS
 - Token Model 通证模型
 - Consensus mechanism 共识机制
+- DAICO
 
 ## Token Model 通证模型
 >  按时间顺序 收集通证模型专题相关资料
