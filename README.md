@@ -35,8 +35,7 @@
 - [20180308 锋芒君 区块链经济设计原则](https://mp.weixin.qq.com/s/JkA5KZNgRx3JN2w-VhsVMQ)
 - [20180321 张泰伦 Token经济凛冬已至](http://t.cn/RnxpPoJ)
 ## Consensus mechanism 共识机制
-
-## Consensus mechanism 共识机制
+>  按时间顺序 收集共识机制专题相关资料
 - [20170524 王玮 Corda共识机制的深入分析](https://www.jianshu.com/p/4d4a9bb9e623)
 - [20180202 xxxx 区块链的共识机制](http://t.cn/RnxEuRW)
 - [20180210 胡明 区块链的共识机制从拜占庭共识谈起](https://www.jianshu.com/p/dc91809c44ef)
@@ -52,8 +51,8 @@
 - [20180316 wingyang 共识机制综述](https://www.jianshu.com/p/c1ddb4e3cc20)
 - [20180318 free 浅聊区块链共识机制（二）](http://suo.im/4b1IsH)
 ## DAICO
+>  按时间顺序 收集DAICO专题相关资料
 - [20180120 Vitalik Buterin 更好的 ICO — DAICO](http://suo.im/F7i5a)
-- [20180221 Vitalik Buterin 更好的 ICO — DAICO](http://suo.im/33xzBQ)
 - [20180224 DAO.ONE 新型众筹模式DAICO](http://suo.im/eSDrH)
 - [20180305 DAICO众筹模式](https://www.jianshu.com/p/5f3b033cdf8a)
 - [20180307 DAICO六问——带你理解V神的脑回路](http://suo.im/3QsSJ4)
