@@ -1,8 +1,8 @@
 # 区块链专题分析  
 
 >  收集所有区块链(BlockChain)专题相关资料
-*Please read the contribution guidelines before contributing. 请在为本项目贡献信息前仔细阅读 操作指南*
-欢迎到Issues提交区块链相关项目，我们会第一时间处理。
+>  *Please read the contribution guidelines before contributing. 请在为本项目贡献信息前仔细阅读 操作指南*
+>  欢迎到Issues提交区块链相关项目，我们会第一时间处理。
 提交的项目格式如下：
 项目名称：XXXXX
 相关介绍: XXXXXX
