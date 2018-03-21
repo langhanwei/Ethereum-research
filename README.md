@@ -21,4 +21,4 @@
 
 ### Token Model 通证模型
 
-- [20170820 Kyle Wang?加密经济学：区块链技术前景之路基]（http://ethfans.org/zzzhang/articles/561）
+- [20170820 Kyle Wang?加密经济学：区块链技术前景之路基](http://ethfans.org/zzzhang/articles/561)
